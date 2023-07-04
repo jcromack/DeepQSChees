@@ -1,21 +1,5 @@
 # Assignment
 
-
-```python
-# Import 
-
-import numpy as np
-import matplotlib.pyplot as plt
-from degree_freedom_queen import *
-from degree_freedom_king1 import *
-from degree_freedom_king2 import *
-from generate_game import *
-from Chess_env import *
-
-
-size_board = 4
-```
-
 ## The Environment
 
 1. Initialise_game. The method initialises an episode by placing the three pieces considered (Agent's king and queen, enemy's king) in the chess board. The outputs of the method are described below in order.
